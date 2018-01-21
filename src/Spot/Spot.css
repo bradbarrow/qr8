@@ -1,0 +1,39 @@
+.wrapper {
+  height: 100%;
+  width: 100%;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  height: 60%;
+  width: auto;
+  margin-bottom: 8px;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.meta {
+  font-size: 12px;
+}
+
+.price {
+  color: seagreen;
+  font-weight: bold;
+  position: relative;
+  top: 1px;
+}
+
+.dot {
+  padding: 0 8px;
+}
+
+.street {
+  color: #444;
+  line-height: 1.4;
+}

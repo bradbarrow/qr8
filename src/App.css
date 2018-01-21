@@ -1,0 +1,30 @@
+:global * {
+  box-sizing: border-box;
+}
+
+.app {
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.mapArea {
+  height: 65vh;
+  width: 100%;
+  background: #efefef;
+}
+
+.listArea {
+  height: 35vh;
+  width: 100%;
+  background: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
